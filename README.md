@@ -1,2 +1,2 @@
-# Mechanic-Clock
-make a traditional mechanic clock
+# digital-clock
+make a digital clock using javascript, html and css

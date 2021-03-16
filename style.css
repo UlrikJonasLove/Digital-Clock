@@ -1,8 +1,8 @@
 body {
     background: url(bakgrund.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
-    background-repeat: center;
+    width: 100%;
+    height: 400px;
 }
 
 div {
